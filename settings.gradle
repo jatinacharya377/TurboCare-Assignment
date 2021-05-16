@@ -1,0 +1,2 @@
+rootProject.name = "TurboCare Assignment"
+include ':app'

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TurboCare Assignment</string>
+    <string name="vehicle_number">VEHICLE NUMBER</string>
+    <string name="next_button">Next Button</string>
+    <string name="back_button">Back Button</string>
+    <string name="bike">Bike</string>
+    <string name="toolbar_text">Create new vehicle profile</string>
+    <string name="toolbar_text_2">Select vehicle type</string>
+    <string name="toolbar_text_3">Select Make</string>
+    <string name="toolbar_text_4">Select Model</string>
+    <string name="toolbar_text_5">Select Fuel Type</string>
+    <string name="toolbar_text_6">Select Transmission</string>
+    <string name="two_wheeler">Two Wheeler</string>
+    <string name="four_wheeler">Four Wheeler</string>
+    <string name="continue_text">Continue</string>
+    <string name="make">MAKE</string>
+    <string name="model">MODEL</string>
+    <string name="fuel_type">FUEL TYPE</string>
+    <string name="transmission">TRANSMISSION</string>
+    <string name="vehicles">Vehicles</string>
+</resources>
